@@ -1,0 +1,7 @@
+This is a new file.
+This is made for testing purposes only.
+There are four lines in this file.
+There are four lines in this file.
+There are four lines in this file.
+There are four lines in this file.
+Oh! No.. there are seven lines now.
