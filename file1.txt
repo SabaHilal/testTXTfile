@@ -1,7 +1,8 @@
-This is a new file.
+This is a txt file that is uploaded to github for test.
 This is made for testing purposes only.
-There are four lines in this file.
-There are four lines in this file.
-There are four lines in this file.
-There are four lines in this file.
-Oh! No.. there are seven lines now.
+There are five lines in this file.
+There are five lines in this file.
+There are five lines in this file.
+There are five lines in this file.
+There are five lines in this file.
+Oh! No.. there are eight lines now.
